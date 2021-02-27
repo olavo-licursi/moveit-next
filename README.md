@@ -15,6 +15,9 @@ Como rodar a aplicação na sua maquina:
   Acesse o caminho do projeto via CMD ou abra-o no Visual Studio e execute o comando "Yarn" para instalar as bibliotecas necessarias da aplicação;
   </li>
   <li>
+  Para seu nome e foto na aplicação, vá até o arquivo "moveit-next\src\components\Profile.tsx", na linha 10 insira o link da sua foto e na linha 12 altere para o seu nome;
+  </li>
+  <li>
   Para executar a aplicação execute o comando "yarn dev";
   </li>
   <li>
