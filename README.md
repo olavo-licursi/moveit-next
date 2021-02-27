@@ -1,6 +1,6 @@
 <h1>Aplicação criada com o objetivo de utilizar a técnica Pomodoro, dessa forma você pode manter sua concentração para estudar, trabalhar e etc.</h1>
 
-Como rodar a aplicação na sua maquina:
+Como rodar a aplicação no seu pc:
 <ul>
   <li>
   Instale o Node (https://nodejs.org/pt-br/download/);
