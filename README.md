@@ -9,4 +9,4 @@ Como rodar a aplicação na sua maquina:
 -Acesse no seu navegador (http://localhost:3000/);
 
 
-<img src="/moveit-next/public/home.PNG">
+<img src="/public/home.PNG">
