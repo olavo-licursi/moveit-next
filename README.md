@@ -9,4 +9,4 @@ Como rodar a aplicação na sua maquina:
 -Acesse no seu navegador (http://localhost:3000/);
 
 
-![] moveit-next/public/home.PNG 
+![](/moveit-next/public/home.PNG) 
