@@ -1,4 +1,4 @@
-Aplicação criada com o objetivo de utilizar a técnica Pomodoro, dessa forma você pode manter sua concentração para estudar, trabalhar e etc.
+<h1>Aplicação criada com o objetivo de utilizar a técnica Pomodoro, dessa forma você pode manter sua concentração para estudar, trabalhar e etc.</h1>
 
 Como rodar a aplicação na sua maquina:
 <ul>
